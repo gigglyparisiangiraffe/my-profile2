@@ -1,0 +1,184 @@
+body {
+  background-color: #092635;
+  color: #EEF5FF;
+  font-family: Montserrat;
+  width: 700px;
+  margin: 40px auto;
+}
+
+title {
+  color: #EEF5FF;
+  font-family: Montserrat;
+  font-weight: 800;
+  letter-spacing: 10px;
+  font-size: 80px;
+}
+
+h1 {
+  color: #EEF5FF;
+  font-family: Montserrat;
+  font-weight: 800;
+  letter-spacing: 10px;
+  font-size: 44px;
+  text-transform: uppercase;
+   width: 700px;
+  margin: 40px auto;
+}
+
+h2 {
+  color: #EEF5FF);
+  font-size: 24px;
+  font-weight: lighter;
+  padding: 60px;
+  margin: 50px;
+  box-shadow: 0px 10px 30px; rgb(0,0,0,0.1);
+  border-radius: 4px;
+  border: 5px #EEF5FF
+}
+a {
+  text-decoration: none;
+  color: #EEF5FF;
+}
+a:hover {
+  color: #EEF5FF;
+}
+
+div {
+  background: #092635;
+  border: 3px #EEF5FF;
+  margin: 10px;
+}
+#logo {
+  width: 40px;
+}
+.img-circle {
+  border-radius: 50%
+}
+#leader {
+  border: 5px #EEF5FF;
+}
+
+
+
+body {
+  background-color: #FFF7F1;
+  color: #222831;
+  font-family: andale mono;
+  line-height: 20px;
+  text-align: center;
+}
+
+.btn-blue {
+background-color:#99154E;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#EE9595;
+color: floralwhite;
+
+}
+
+h1 {
+  color: #99154E;
+  font-family: montserrat;
+  text-align: center;
+  letter-spacing: 0.25em;
+}
+
+a{
+  text-decoration: none;
+}
+h2, h3, h4 {
+  font-family: montserrat; 
+  letter-spacing: 0.15em;
+  color: rgb(8, 143, 143);
+}
+
+a {
+  text-decoration: none;
+  color: #FFDDCC;
+}
+
+a:hover {
+  color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #7897AB;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: #C3DBD9;
+
+}
+
+#section3 {
+background-color: #FFDDCC;
+
+}
+
+#section4 {
+background-color: #ECB390;
+
+}
+
+#section5 {
+background-color: #EE9595;
+
+}
+.font-styles {
+  margin-bottom: 5px;
+  justify-content: center;
+  border-radius: 1px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  margin: 70px;
+  border: 2px solid;
+  padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 30px;
+  color: #FFDDCC;
+}
+
+.list-inline i:hover {
+  color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
